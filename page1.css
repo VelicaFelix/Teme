@@ -1,0 +1,15 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table {
+    border-style: solid;
+    border-spacing: 0em;
+    border-collapse: collapse;
+}
+td {
+    border-style: solid;
+}
+th {
+    border-style: solid;
+    border-color: teal;
+}
